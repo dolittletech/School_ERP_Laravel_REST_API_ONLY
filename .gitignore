@@ -1,0 +1,12 @@
+
+
+/.htaccess
+
+.env
+
+/vendor/
+vendor/
+
+/app/Http/Controllers/Controller.php
+
+index.php
